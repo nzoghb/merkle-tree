@@ -42,7 +42,7 @@ You need only to make changes to `merkle_proof.py`, please make sure to familiar
 
 ## Running Tests
 
-Use `python3 test.py` to run all the tests. You may add your own tests and run them with `python [filename].py`. Make sure to format tests according to the `unittest` module (take a look at the other files to see examples).
+Use `python3 run_tests.py` to run all the tests. You may add your own tests and run them with `python test/[filename].py`. Make sure to format tests according to the `unittest` module (take a look at the other files to see examples).
 
 Writing your own tests is not required but highly recommended. All that matters is you pass our internal test cases.
 
